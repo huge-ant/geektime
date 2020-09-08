@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/giktime.iml" filepath="$PROJECT_DIR$/giktime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geektime.iml" filepath="$PROJECT_DIR$/geektime.iml" />
     </modules>
   </component>
 </project>
